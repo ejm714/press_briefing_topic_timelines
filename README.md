@@ -4,6 +4,7 @@ The goal of this project was to distill topics from press briefing topics and vi
 <img src="https://github.com/ejm714/press_briefing_topic_timelines/blob/master/topic_timeline_isis.png?raw=true" alt="Topic timeline: ISIS" width="700">
 </p>
 
+-----
 **Languages**: Python  
 **Libraries**: nltk, sklearn, gensim, spacy, plotly, BeautifulSoup  
 **Methods**: Natural language processing (TFIDF, SVD), clustering  
