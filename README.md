@@ -4,7 +4,7 @@ The goal of this project was to distill topics from press briefing topics and vi
 <img src="https://github.com/ejm714/press_briefing_topic_timelines/blob/master/cluster_topics.png?raw=true" alt="Topic timeline: ISIS" width="700">
 </p>
 <p></p>
-<p align="center"><strong>Visualizing the rise of ISIS</strong></br>
+<p align="center"><strong>Visualizing the rise of ISIS in the White House narrative</strong></br>
 <img src="https://github.com/ejm714/press_briefing_topic_timelines/blob/master/topic_timeline_isis.png?raw=true" alt="Topic timeline: ISIS" width="700">
 </p>
 
