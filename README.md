@@ -3,9 +3,9 @@ The goal of this project was to distill topics from press briefing topics and vi
 ### Visualizing the rise of ISIS
 
 
-**Languages**: Python
-**Libraries**: nltk, sklearn, gensim, spacy, plotly, BeautifulSoup
-**Methods**: Natural language processing (TFIDF, SVD), clustering
+**Languages**: Python  
+**Libraries**: nltk, sklearn, gensim, spacy, plotly, BeautifulSoup  
+**Methods**: Natural language processing (TFIDF, SVD), clustering  
 
 Replication notes:
 
