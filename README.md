@@ -1,7 +1,8 @@
 The goal of this project was to distill topics from press briefing topics and visualize how they ebbed and flowed over time. The resulting timelines reflect administration priorities as well as external events that came to dominate the narrative. I scraped all the press briefings from the Obama years from the whitehouse.gov archives and used natural language processing to perform the topic modeling.
 
-### Visualizing the rise of ISIS
-
+<p align="center"><strong>Visualizing the rise of ISIS</strong></br></br>
+<img src="https://github.com/ejm714/press_briefing_topic_timelines/blob/master/topic_timeline_isis.png?raw=true" alt="Topic timeline: ISIS" width="600">
+</p>
 
 **Languages**: Python  
 **Libraries**: nltk, sklearn, gensim, spacy, plotly, BeautifulSoup  
